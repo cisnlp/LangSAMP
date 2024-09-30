@@ -6,7 +6,7 @@ This is the repository for **LangSAMP** (Language-Script Aware Multilingual Pret
     <img src="/figures/pipeline.png" width="800" height="400" />
 </div>
 
-Paper on arXiv:
+Paper on arXiv: https://arxiv.org/abs/2409.18199
 
 
 ## Continued Pretraining
@@ -80,7 +80,15 @@ bash evaluate_all_pos.sh
 If you find our model, data or the overview of data useful for your research, please cite:
 
 ```
-
+@misc{liu2024langsamplanguagescriptawaremultilingual,
+      title={LangSAMP: Language-Script Aware Multilingual Pretraining}, 
+      author={Yihong Liu and Haotian Ye and Chunlan Ma and Mingyang Wang and Hinrich Schütze},
+      year={2024},
+      eprint={2409.18199},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.18199}, 
+}
 ```
 
 ## Acknowledgements

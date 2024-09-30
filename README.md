@@ -6,7 +6,7 @@ This is the repository for **LangSAMP** (Language-Script Aware Multilingual Pret
     <img src="/figures/pipeline.png" width="800" height="400" />
 </div>
 
-Paper on arXiv: https://arxiv.org/abs/2409.18199
+Paper on arXiv: https://arxiv.org/abs/2409.18199  
 Model on HuggingFace: https://huggingface.co/yihongLiu/LangSAMP  
 
 

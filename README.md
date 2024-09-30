@@ -7,6 +7,7 @@ This is the repository for **LangSAMP** (Language-Script Aware Multilingual Pret
 </div>
 
 Paper on arXiv: https://arxiv.org/abs/2409.18199
+Model on HuggingFace: https://huggingface.co/yihongLiu/LangSAMP  
 
 
 ## Continued Pretraining
